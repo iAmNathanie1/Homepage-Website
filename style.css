@@ -1,0 +1,64 @@
+html{
+    background: #D0E4F5 url("frog.gif") repeat scroll 0 0;
+}
+
+img{
+    display: inline;
+    margin-left: 70px;
+    margin-right: auto;
+    width: 400px;
+}
+
+#soulless{
+    display:inline;
+    width:400px;
+}
+
+p{
+    font-size: xx-large;
+    font-family: "Arial";
+    color: #000000;
+}
+
+#highlighted{
+    display:block;
+    margin-left: 500px;
+    margin-right: 900px;
+    width: 700px;
+}
+
+#highlighted2{
+    font-size: 300px;
+    font-family: "Arial";
+    color:mediumvioletred;
+}
+
+#high3{
+    color: tomato;
+    font-size: 100px;
+}
+
+#high4{
+    display:inline;
+    width: 400px;
+}
+
+#high5{
+    display:inline;
+    width: 400px;
+}
+
+#high6{
+    display:inline;
+    width:400px;
+}
+
+#high7{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xxx-large;
+    color: dodgerblue;
+}
+
+#high8{
+    font-size: 100px;
+}
